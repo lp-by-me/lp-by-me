@@ -2,6 +2,6 @@
 
 - 👋 Hi, I’m Mariana, but you can call me Nana
 - 👀 I speak English, Portuguese, Chinese and Spanish
-- 🌱 I know C, Python (and Django), PHP, JS
+- 🌱 I know C, Python, PHP, JS
 - 🏁 Huge statistics + data science nerd
 - 🌌 Some experience with quantum weirdness and all the mathematics involved
