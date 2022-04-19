@@ -1,7 +1,3 @@
-![20200606_162030](https://user-images.githubusercontent.com/87533378/125961191-3dcd0833-c565-428e-a183-42c670b6b46e.gif)
+![keroppi-hello-kitty](https://user-images.githubusercontent.com/87533378/164076366-6831c58f-cdbf-4dc0-80ba-7b1dcfd9dd7d.gif)
 
-- 👋 Hi, I’m Mariana, but you can call me Nana
-- 👀 I speak English, Portuguese, Chinese and Spanish
-- 🌱 I know C, Python, PHP, JS
-- 🏁 Huge statistics + data science nerd
-- 🌌 Some experience with quantum weirdness and all the mathematics involved
+Welcome! My name is Mariana and I'm a CompSci student at UFSM
